@@ -12,5 +12,5 @@ Este projeto implementa um endpoint HTTP para calcular o Flat Price da soja com 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/endpoint-soja.git
+   git clone https://github.com/belafobia/endpoint-soja.git
    cd endpoint-soja
